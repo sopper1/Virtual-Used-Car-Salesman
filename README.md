@@ -23,6 +23,7 @@ The goal of this project is to create a regression model that can accurately pre
 ## Data
 
 The data as available for download at https://www.kaggle.com/austinreese/craigslist-carstrucks-data#.
+__The file is too large to place in github, please download at the link.__
 
 ### Data Contents
    * vehicles.csv - dataset that includes vehicles posted on Craigslist in the year 2020
